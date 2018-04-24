@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-repeat:repeat;
+	background-image:url('Images/Speaker Cabinet background.png');
+	margin: 0px;
+}
+
+
+
+#hometext {font-size:40px;
+font:"Trebuchet MS", Arial, Helvetica, sans-serif        
+		 
+}
+
+#crowd {margin-left:300px
+}
+
+
+#rectangle{
+    width:2000px;
+    height:600px;
+    background:red;
+}
